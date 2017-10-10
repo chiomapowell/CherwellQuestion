@@ -1,0 +1,12 @@
+One way to find the right triangle row and columns:
+
+Draw a graph on the image using the TEN pixel intervals to create the Y and X axises. 
+Then calculate the vertex coordinates for the triangles on the graph to get a triangle row / column value list. 
+Lastly, given the vortext coordinates, match the coordinates to list of calculated vortex coordinates to get traingle row/column.
+I'm not sure if this is what your looking for or if your looking for a trigonometry/Geometric function to solve the problem?
+
+￼
+Regards,
+
+Herman Powell
+
